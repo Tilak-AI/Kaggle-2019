@@ -17,6 +17,7 @@ The following libraries have been installed alongside a standard Anaconda distri
 ```bash
 pandas
 numpy
+mord
 matplotlib
 ```
 
@@ -25,12 +26,14 @@ The code should run with no issues using Python 3.6.7.
 <a name="motivation"/></a>
 ## Project Motivation
 
-This notebook has been created to better understand the Kaggle's Community. I have investigated the belowquestions such as:
+This notebook has been created to better understand the Kaggle's Community. I explored the below Key Questions such as:
 
-* Kagglers — Who are they?
+```bash
+*Kagglers — Who are they?
 *Is there any presence of India?
 *How to break into this field as student/beginner?
-
+*can we predcit salary using Ordinal Regression?
+```
 
 <a name="files"/></a>
 ## File Descriptions
