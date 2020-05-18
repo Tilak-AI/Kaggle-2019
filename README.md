@@ -1,6 +1,6 @@
 # Kaggle: Analysis on ML and Data Science survey of 2019 and India Presence
 
-This repository contains a notebook that I have created to analyse results of Kaggle's Machine Learning and Data Science Survey from 2019. The data can be found [here](https://www.kaggle.com/c/kaggle-survey-2019). I have also published a blog post on Medium outlining my conclusions which you can access by clicking [here](hhttps://medium.com/@tgpath18/kaggle-analysis-on-ml-and-data-science-survey-2019-and-india-presence-b4ddc8015e01).
+This repository has a Jupyter notebook that I have created to find out my analysis on Kaggle's Machine Learning and Data Science Survey from 2019. The data source can be fetched [here](https://www.kaggle.com/c/kaggle-survey-2019). I have also written a blog on Medium wiht my detailed anlysis. The same can be access via clicking [here](hhttps://medium.com/@tgpath18/kaggle-analysis-on-ml-and-data-science-survey-2019-and-india-presence-b4ddc8015e01).
 
 ## Table of Contents  
 [Installation](#installation)  
@@ -26,7 +26,7 @@ The code should run with no issues using Python 3.6.7.
 <a name="motivation"/></a>
 ## Project Motivation
 
-This notebook has been created to better understand the Kaggle's Community. I explored the below Key Questions such as:
+This Jupyter notebook has been created to better understand the Kaggle's Community. I explored the below Key Questions such as:
 
 ```bash
 *Kagglers — Who are they?
@@ -37,7 +37,7 @@ This notebook has been created to better understand the Kaggle's Community. I ex
 
 <a name="files"/></a>
 ## File Descriptions
-Apart from the README file, please have a look on the notebook in this repository. It contains code to generate all outputs I have used to derive my analysis.
+Apart from the README file, please have a look on the Jupyter notebook in this repository. It contains code to generate all outputs I have used to derive my analysis.
 
 <a name="results"/></a>
 ## Results
